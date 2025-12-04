@@ -1,5 +1,5 @@
 // src/components/PastProjects.tsx
-import React, { useRef } from "react";
+import  { useRef } from "react";
 import p1 from "../assets/project/p1.jpg";
 import p2 from "../assets/project/p2.jpg";
 import p3 from "../assets/project/p3.jpg";

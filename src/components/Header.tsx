@@ -7,7 +7,7 @@ type UniqueHeaderProps = {
   onOpenBooking?: () => void;
 };
 
-export default function UniqueHeader({ onOpenBooking }: UniqueHeaderProps) {
+export default function UniqueHeader({ }: UniqueHeaderProps) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [q, setQ] = useState("");

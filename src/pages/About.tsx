@@ -1,6 +1,5 @@
 // src/pages/About.tsx
 import AboutUs from "../components/AboutUs";
-import PastProjects from "../components/PastProjects";
 import p1 from "../assets/2.webp";
 import p2 from "../assets/4.webp";
 import p3 from "../assets/6.webp";

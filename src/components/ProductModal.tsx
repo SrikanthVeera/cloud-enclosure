@@ -1,5 +1,4 @@
 // src/components/ProductModal.tsx
-import React from "react";
 
 type Item = { id: string; name: string; desc?: string; image?: string; tags?: string[] };
 
