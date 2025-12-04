@@ -4,7 +4,7 @@ import img1 from "../assets/2.webp";
 import img2 from "../assets/4.webp";
 import img3 from "../assets/6.webp";
 import img4 from "../assets/8.webp";
-import banner1 from "../assets/banner1.jpg";
+import banner1 from "../assets/banner3.jpg";
 import banner2 from "../assets/banner2.jpg";
 
 interface Product {
