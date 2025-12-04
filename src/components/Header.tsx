@@ -2,7 +2,12 @@
 import { useState, useRef, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 
-export default function UniqueHeader() {
+// ✅ Added only this — no logic changed
+type UniqueHeaderProps = {
+  onOpenBooking?: () => void;
+};
+
+export default function UniqueHeader({ onOpenBooking }: UniqueHeaderProps) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [q, setQ] = useState("");
