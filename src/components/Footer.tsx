@@ -62,14 +62,14 @@ export default function Footer() {
           <h4 className="text-lg font-semibold text-gray-900 mb-4">Contact Us</h4>
           <ul className="space-y-4 text-gray-600">
             <li>
-              <strong className="text-gray-800">Phone:</strong> +91 98765 43210
+              <strong className="text-gray-800">Phone:</strong> +91 6364692795
             </li>
             <li>
               <strong className="text-gray-800">Email:</strong> info@cloudenclosure.com
             </li>
             <li>
               <strong className="text-gray-800">Location:</strong><br />
-              Mysuru, Karnataka, India
+               301, Papareddypalya Gopalappa Layout, Nagarabavi,2nd Stage, Banglore,560072
             </li>
           </ul>
         </div>
